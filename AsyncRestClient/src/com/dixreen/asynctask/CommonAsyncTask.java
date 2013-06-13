@@ -21,6 +21,7 @@ import com.dixreen.http.RestClient;
  *
  */
 
+
  public class CommonAsyncTask extends AsyncTask<Object, Integer, String>
 {
 	protected int mRequestId;
